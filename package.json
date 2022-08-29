@@ -1,6 +1,6 @@
 {
   "name": "server-express-tool",
-  "version": "2.2.2",
+  "version": "2.2.5",
   "description": "A node.js Utility built on express.js to make working with it easier.",
   "main": "index.js",
   "type": "module",
