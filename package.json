@@ -7,7 +7,7 @@
   "typings": "./types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Dev-Siri/server-express-tool.git"
   },
   "scripts": {
     "start": "node index.js"
