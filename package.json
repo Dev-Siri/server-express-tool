@@ -1,10 +1,10 @@
 {
   "name": "server-express-tool",
-  "version": "2.2.5",
+  "version": "2.3.0",
   "description": "A node.js Utility built on express.js to make working with it easier.",
   "main": "index.js",
-  "type": "module",
   "typings": "./types/index.d.ts",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dev-Siri/server-express-tool.git"
