@@ -2,7 +2,7 @@
 
 import { Express, Router } from "../core/express.js";
 
-module.exports = class Application {
+export default class Application {
   Listen(PORT, Callback) {
     Express.listen(PORT || 8080);
 
@@ -34,4 +34,4 @@ module.exports = class Application {
   get Router() {
     return Router;
   }
-};
+}

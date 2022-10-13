@@ -1,11 +1,4 @@
-import type {
-  NextFunction,
-  Request,
-  Response,
-  Router,
-  RequestHandler,
-} from "express";
-import QueryString from "qs";
+import type { NextFunction, Request, Response, Router } from "express";
 
 declare module "server-express-tool" {
   class Application {
